@@ -2,12 +2,11 @@
  
 Data and R code for Poirier et al, Chemical Senses, 2021
 
+DOI: 10.1093/chemse/bjab008
 
-Scent Marks Signal Species, Sex and Reproductive Status in Tamarins (Saguinus spp., Neotropical Primates)
+Title: Scent Marks Signal Species, Sex and Reproductive Status in Tamarins (Saguinus spp., Neotropical Primates)
 
-Alice C. Poirier, John S. Waterhouse, Jacob C. Dunn, Andrew C. Smith
-
-Correspondence to be sent to: alice.poirier@ucalgary.ca , ORCID 0000-0001-7947-3721
+Authors: Alice C. Poirier, John S. Waterhouse, Jacob C. Dunn, Andrew C. Smith
 
 
 
